@@ -4,8 +4,18 @@
 20多块显卡云计算集群 
 500万+/秒运算速度 100G+字典
 oclHashcat+与linux shell自动处理
+
+
+##500万+/秒运算速度 100G+字典   
 ![1](http://img3.douban.com/view/photo/large/public/p2247525933.jpg)  
+
+ 
+##oclHashcat+与linux shell自动处理   
 ![2](http://img4.douban.com/view/photo/large/public/p2247525937.jpg)    
+
+
+
+##20多块显卡云计算集群   
 ![3](http://img4.douban.com/view/photo/photo/public/p2247525936.jpg)    
 
 
